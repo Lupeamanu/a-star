@@ -1,0 +1,6 @@
+*.pyc
+*.cfg
+
+/Scripts/
+/Include/
+/Lib/
